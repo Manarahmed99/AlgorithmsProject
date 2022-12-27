@@ -1,0 +1,225 @@
+Data: Data 1      Data State: Sorted      Algorithm: Selection Sort      Time: 0.015622377395629883
+Data: Data 1      Data State: Sorted      Algorithm: Selection Sort      Time: 0.015571355819702148
+Data: Data 1      Data State: Sorted      Algorithm: Selection Sort      Time: 0.015573263168334961
+Data: Data 1      Data State: Unsorted      Algorithm: Selection Sort      Time: 0.02383112907409668
+Data: Data 1      Data State: Unsorted      Algorithm: Selection Sort      Time: 0.03119659423828125
+Data: Data 1      Data State: Unsorted      Algorithm: Selection Sort      Time: 0.031198501586914062
+Data: Data 2      Data State: Sorted      Algorithm: Selection Sort      Time: 0.015681743621826172
+Data: Data 2      Data State: Sorted      Algorithm: Selection Sort      Time: 0.03119826316833496
+Data: Data 2      Data State: Sorted      Algorithm: Selection Sort      Time: 0.015496969223022461
+Data: Data 2      Data State: Unsorted      Algorithm: Selection Sort      Time: 0.02361917495727539
+Data: Data 2      Data State: Unsorted      Algorithm: Selection Sort      Time: 0.03124213218688965
+Data: Data 2      Data State: Unsorted      Algorithm: Selection Sort      Time: 0.03126931190490723
+Data: Data 3      Data State: Sorted      Algorithm: Selection Sort      Time: 0.015677928924560547
+Data: Data 3      Data State: Sorted      Algorithm: Selection Sort      Time: 0.01556849479675293
+Data: Data 3      Data State: Sorted      Algorithm: Selection Sort      Time: 0.015616893768310547
+Data: Data 3      Data State: Unsorted      Algorithm: Selection Sort      Time: 0.046759843826293945
+Data: Data 3      Data State: Unsorted      Algorithm: Selection Sort      Time: 0.04674959182739258
+Data: Data 3      Data State: Unsorted      Algorithm: Selection Sort      Time: 0.031116962432861328
+Data: Data 1      Data State: Sorted      Algorithm: Quick Sort      Time: 0.04717588424682617
+Data: Data 1      Data State: Sorted      Algorithm: Quick Sort      Time: 0.046880245208740234
+Data: Data 1      Data State: Sorted      Algorithm: Quick Sort      Time: 0.04685544967651367
+Data: Data 1      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.0
+Data: Data 1      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.0
+Data: Data 1      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.015588521957397461
+Data: Data 2      Data State: Sorted      Algorithm: Quick Sort      Time: 0.04711294174194336
+Data: Data 2      Data State: Sorted      Algorithm: Quick Sort      Time: 0.046811580657958984
+Data: Data 2      Data State: Sorted      Algorithm: Quick Sort      Time: 0.046935081481933594
+Data: Data 2      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.0
+Data: Data 2      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.0
+Data: Data 2      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Quick Sort      Time: 0.04681658744812012
+Data: Data 3      Data State: Sorted      Algorithm: Quick Sort      Time: 0.046808481216430664
+Data: Data 3      Data State: Sorted      Algorithm: Quick Sort      Time: 0.04770660400390625
+Data: Data 3      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.0
+Data: Data 1      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.0
+Data: Data 1      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.0
+Data: Data 1      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.0
+Data: Data 1      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.0
+Data: Data 1      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.0
+Data: Data 1      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.0
+Data: Data 1      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.0
+Data: Data 1      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.0
+Data: Data 1      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.0
+Data: Data 1      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.0
+Data: Data 1      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.01573467254638672
+Data: Data 1      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.015735387802124023
+Data: Data 1      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.0
+Data: Data 2      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.0
+Data: Data 2      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.0
+Data: Data 2      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.0
+Data: Data 2      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.015494346618652344
+Data: Data 2      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.0
+Data: Data 2      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.0
+Data: Data 2      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.0
+Data: Data 2      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.01557159423828125
+Data: Data 2      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.01557159423828125
+Data: Data 3      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Quick Sort      Time: 0.015708446502685547
+Data: Data 1      Data State: Sorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 1      Data State: Sorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 1      Data State: Sorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 1      Data State: Sorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 1      Data State: Sorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 1      Data State: Sorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 1      Data State: Sorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 1      Data State: Sorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 1      Data State: Sorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 1      Data State: Sorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 1      Data State: Sorted      Algorithm: Radix Sort      Time: 0.015592336654663086
+Data: Data 1      Data State: Sorted      Algorithm: Radix Sort      Time: 0.015706777572631836
+Data: Data 1      Data State: Sorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 1      Data State: Sorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 1      Data State: Sorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 1      Data State: Sorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 1      Data State: Sorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 1      Data State: Sorted      Algorithm: Radix Sort      Time: 0.01560354232788086
+Data: Data 1      Data State: Sorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 1      Data State: Sorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 1      Data State: Sorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 1      Data State: Sorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 1      Data State: Sorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 1      Data State: Sorted      Algorithm: Radix Sort      Time: 0.01550745964050293
+Data: Data 1      Data State: Unsorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 1      Data State: Unsorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 1      Data State: Unsorted      Algorithm: Radix Sort      Time: 0.015726566314697266
+Data: Data 1      Data State: Unsorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 1      Data State: Unsorted      Algorithm: Radix Sort      Time: 0.015597105026245117
+Data: Data 1      Data State: Unsorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 1      Data State: Unsorted      Algorithm: Radix Sort      Time: 0.015553951263427734
+Data: Data 1      Data State: Unsorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 1      Data State: Unsorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 1      Data State: Unsorted      Algorithm: Radix Sort      Time: 0.015596866607666016
+Data: Data 3      Data State: Sorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Radix Sort      Time: 0.015564918518066406
+Data: Data 3      Data State: Sorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Radix Sort      Time: 0.015635013580322266
+Data: Data 3      Data State: Sorted      Algorithm: Radix Sort      Time: 0.015699148178100586
+Data: Data 3      Data State: Sorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Radix Sort      Time: 0.015572071075439453
+Data: Data 3      Data State: Unsorted      Algorithm: Radix Sort      Time: 0.015583276748657227
+Data: Data 3      Data State: Unsorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Radix Sort      Time: 0.015585899353027344
+Data: Data 3      Data State: Unsorted      Algorithm: Radix Sort      Time: 0.0
+Data: Data 1      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 1      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 1      Data State: Sorted      Algorithm: Median of medians      Time: 0.008489370346069336
+Data: Data 1      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 1      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 1      Data State: Sorted      Algorithm: Median of medians      Time: 0.015681743621826172
+Data: Data 1      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 1      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 1      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 1      Data State: Sorted      Algorithm: Median of medians      Time: 0.015584945678710938
+Data: Data 1      Data State: Sorted      Algorithm: Median of medians      Time: 0.015558958053588867
+Data: Data 1      Data State: Unsorted      Algorithm: Median of medians      Time: 0.015589237213134766
+Data: Data 1      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 1      Data State: Unsorted      Algorithm: Median of medians      Time: 0.015616893768310547
+Data: Data 1      Data State: Unsorted      Algorithm: Median of medians      Time: 0.015712499618530273
+Data: Data 1      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 1      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 1      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 1      Data State: Unsorted      Algorithm: Median of medians      Time: 0.015977144241333008
+Data: Data 2      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 2      Data State: Sorted      Algorithm: Median of medians      Time: 0.015593290328979492
+Data: Data 2      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 2      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 2      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 2      Data State: Sorted      Algorithm: Median of medians      Time: 0.016228199005126953
+Data: Data 2      Data State: Sorted      Algorithm: Median of medians      Time: 0.01569533348083496
+Data: Data 2      Data State: Sorted      Algorithm: Median of medians      Time: 0.01558065414428711
+Data: Data 2      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 2      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 2      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 2      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 2      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 2      Data State: Unsorted      Algorithm: Median of medians      Time: 0.015612602233886719
+Data: Data 2      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 2      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 2      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 2      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 2      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 2      Data State: Unsorted      Algorithm: Median of medians      Time: 0.015568733215332031
+Data: Data 2      Data State: Unsorted      Algorithm: Median of medians      Time: 0.015567541122436523
+Data: Data 3      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Median of medians      Time: 0.015494585037231445
+Data: Data 3      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Median of medians      Time: 0.01562809944152832
+Data: Data 3      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Median of medians      Time: 0.0157470703125
+Data: Data 3      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Median of medians      Time: 0.015569925308227539
+Data: Data 3      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Sorted      Algorithm: Median of medians      Time: 0.015576839447021484
+Data: Data 3      Data State: Sorted      Algorithm: Median of medians      Time: 0.015507936477661133
+Data: Data 3      Data State: Sorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Median of medians      Time: 0.01550436019897461
+Data: Data 3      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Median of medians      Time: 0.015582561492919922
+Data: Data 3      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Median of medians      Time: 0.015591144561767578
+Data: Data 3      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
+Data: Data 3      Data State: Unsorted      Algorithm: Median of medians      Time: 0.015668869018554688
+Data: Data 3      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
+Data: Choose the data      Data State: Choose the data state      Algorithm: Pick your algorithm      Time: 
+Data: Choose the data      Data State: Choose the data state      Algorithm: Pick your algorithm      Time: 
+Data: Choose the data      Data State: Choose the data state      Algorithm: Pick your algorithm      Time: 
+Data: Data 1      Data State: Unsorted      Algorithm: Selection Sort      Time: 0.03249645233154297
+Data: Data 1      Data State: Choose the data state      Algorithm: Selection Sort      Time: 
+Data: Data 1      Data State: Choose the data state      Algorithm: Selection Sort      Time: 
+Data: Data 1      Data State: Choose the data state      Algorithm: Selection Sort      Time: 
+Data: Data 1      Data State: Choose the data state      Algorithm: Selection Sort      Time: 
+Data: Data 2      Data State: Unsorted      Algorithm: Median of medians      Time: 0.0
